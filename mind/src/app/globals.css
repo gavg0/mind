@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+
+}
+
+
+
+.mesh1{
+  background-color:#f099ff;
+  background-image:
+  radial-gradient(at 17% 91%, hsla(233,91%,75%,1) 0px, transparent 50%),
+  radial-gradient(at 87% 87%, hsla(295,77%,74%,1) 0px, transparent 50%),
+  radial-gradient(at 46% 24%, hsla(341,80%,67%,1) 0px, transparent 50%),
+  radial-gradient(at 66% 45%, hsla(332,80%,63%,1) 0px, transparent 50%),
+  radial-gradient(at 46% 88%, hsla(191,74%,66%,1) 0px, transparent 50%),
+  radial-gradient(at 35% 92%, hsla(314,77%,69%,1) 0px, transparent 50%),
+  radial-gradient(at 47% 71%, hsla(257,65%,76%,1) 0px, transparent 50%);
+  }
+  
+  .mesh2{
+    background-color:#a599ff;
+  background-image:
+  radial-gradient(at 14% 7%, hsla(52,93%,72%,1) 0px, transparent 50%),
+  radial-gradient(at 9% 17%, hsla(181,71%,77%,1) 0px, transparent 50%),
+  radial-gradient(at 25% 45%, hsla(210,66%,78%,1) 0px, transparent 50%),
+  radial-gradient(at 41% 36%, hsla(174,88%,74%,1) 0px, transparent 50%),
+  radial-gradient(at 46% 98%, hsla(354,87%,66%,1) 0px, transparent 50%),
+  radial-gradient(at 45% 94%, hsla(94,91%,69%,1) 0px, transparent 50%),
+  radial-gradient(at 76% 3%, hsla(202,62%,72%,1) 0px, transparent 50%);
+  }
+  
+  .mesh3{
+    background-color:#ffa799;
+  background-image:
+  radial-gradient(at 45% 9%, hsla(178,75%,71%,1) 0px, transparent 50%),
+  radial-gradient(at 23% 97%, hsla(350,71%,78%,1) 0px, transparent 50%),
+  radial-gradient(at 56% 84%, hsla(162,64%,66%,1) 0px, transparent 50%),
+  radial-gradient(at 65% 9%, hsla(18,68%,71%,1) 0px, transparent 50%),
+  radial-gradient(at 4% 31%, hsla(109,92%,69%,1) 0px, transparent 50%),
+  radial-gradient(at 21% 51%, hsla(224,70%,61%,1) 0px, transparent 50%),
+  radial-gradient(at 14% 27%, hsla(13,61%,72%,1) 0px, transparent 50%);
+  }
+  
+  .mesh4{
+    background-color:#e799ff;
+  background-image:
+  radial-gradient(at 80% 75%, hsla(246,88%,63%,1) 0px, transparent 50%),
+  radial-gradient(at 15% 96%, hsla(351,87%,62%,1) 0px, transparent 50%),
+  radial-gradient(at 54% 40%, hsla(250,99%,72%,1) 0px, transparent 50%),
+  radial-gradient(at 45% 12%, hsla(208,70%,78%,1) 0px, transparent 50%),
+  radial-gradient(at 33% 73%, hsla(3,82%,68%,1) 0px, transparent 50%),
+  radial-gradient(at 47% 43%, hsla(40,63%,68%,1) 0px, transparent 50%),
+  radial-gradient(at 67% 86%, hsla(61,72%,64%,1) 0px, transparent 50%);
+  }
+  
+  .mesh5{
+    background-color:#99b3ff;
+  background-image:
+  radial-gradient(at 66% 61%, hsla(291,83%,79%,1) 0px, transparent 50%),
+  radial-gradient(at 23% 24%, hsla(6,73%,74%,1) 0px, transparent 50%),
+  radial-gradient(at 55% 14%, hsla(222,88%,72%,1) 0px, transparent 50%),
+  radial-gradient(at 78% 1%, hsla(356,69%,72%,1) 0px, transparent 50%),
+  radial-gradient(at 97% 66%, hsla(319,84%,60%,1) 0px, transparent 50%),
+  radial-gradient(at 82% 69%, hsla(238,89%,65%,1) 0px, transparent 50%),
+  radial-gradient(at 15% 93%, hsla(292,95%,75%,1) 0px, transparent 50%);
+  }
+  
+  .mesh6{
+    background-color:#f399ff;
+  background-image:
+  radial-gradient(at 85% 2%, hsla(248,84%,69%,1) 0px, transparent 50%),
+  radial-gradient(at 49% 50%, hsla(334,75%,76%,1) 0px, transparent 50%),
+  radial-gradient(at 33% 66%, hsla(316,74%,63%,1) 0px, transparent 50%),
+  radial-gradient(at 3% 58%, hsla(336,94%,74%,1) 0px, transparent 50%),
+  radial-gradient(at 87% 47%, hsla(240,68%,72%,1) 0px, transparent 50%),
+  radial-gradient(at 83% 13%, hsla(139,75%,70%,1) 0px, transparent 50%),
+  radial-gradient(at 1% 43%, hsla(23,64%,64%,1) 0px, transparent 50%);
+  }
+  
+  .mesh7{
+    background-color:#99fff5;
+background-image:
+radial-gradient(at 27% 69%, hsla(337,99%,77%,1) 0px, transparent 50%),
+radial-gradient(at 90% 8%, hsla(39,97%,77%,1) 0px, transparent 50%),
+radial-gradient(at 96% 12%, hsla(191,64%,66%,1) 0px, transparent 50%),
+radial-gradient(at 0% 6%, hsla(253,92%,67%,1) 0px, transparent 50%),
+radial-gradient(at 67% 27%, hsla(62,91%,63%,1) 0px, transparent 50%),
+radial-gradient(at 32% 19%, hsla(184,87%,74%,1) 0px, transparent 50%),
+radial-gradient(at 84% 62%, hsla(187,67%,73%,1) 0px, transparent 50%);
+  }
+
+  .mesh8{
+    background-color:#ff99cc;
+background-image:
+radial-gradient(at 78% 76%, hsla(215,72%,67%,1) 0px, transparent 50%),
+radial-gradient(at 51% 0%, hsla(234,79%,75%,1) 0px, transparent 50%),
+radial-gradient(at 21% 76%, hsla(290,66%,63%,1) 0px, transparent 50%),
+radial-gradient(at 15% 89%, hsla(91,76%,74%,1) 0px, transparent 50%),
+radial-gradient(at 85% 86%, hsla(317,86%,72%,1) 0px, transparent 50%),
+radial-gradient(at 40% 37%, hsla(320,94%,66%,1) 0px, transparent 50%),
+radial-gradient(at 7% 46%, hsla(169,81%,78%,1) 0px, transparent 50%);
+  }
